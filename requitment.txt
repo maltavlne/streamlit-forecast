@@ -1,6 +1,7 @@
-numpy
 pandas
-scikit-learn
-seaborn
+numpy
 statsmodels
-streamlit==1.15.0
+matplotlib
+streamlit
+scikit-learn
+openpyxl
